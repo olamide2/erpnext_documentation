@@ -5,7 +5,7 @@
 
 * **Customer**: is an individual or organization who has given you business.
 
-* **Contact**: is a person who belongs to the Customer. This is applicable in business-to-business scenario, where you may contact multiple individuals belonging to the same customer.
+* **Contact**: is a person who belongs to the Customer or the Lead. This is applicable in business-to-business scenario, where you may contact multiple individuals belonging to the same customer or Lead.
 
 A Lead can be converted to a Customer by selecting “Customer” from the **Make**
 dropdown. Once the Customer is created, the Lead becomes “Converted” and any
